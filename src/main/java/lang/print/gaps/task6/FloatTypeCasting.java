@@ -5,6 +5,10 @@ public class FloatTypeCasting {
         numberToBeRounded = 19.4F;
 
         System.out.println(Math.round(numberToBeRounded));
+
+        numberToBeRounded = 19.5F;
+
+        System.out.println(Math.round(numberToBeRounded));
         
     }
 }
